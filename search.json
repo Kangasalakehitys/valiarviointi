@@ -39,7 +39,7 @@
     "href": "elinvoima.html#kehitämme-liikenneverkkoa-käynnistämme-raideliikennehankkeita-aloitamme-kehä-2n-rakentamisen-yhdessä-tampereen-kanssa-osallistumme-valtateiden-9-ja-12-kehittämiseen",
     "title": "Elinvoiman edellytykset kunnossa",
     "section": "Kehitämme liikenneverkkoa (Käynnistämme raideliikennehankkeita, Aloitamme Kehä 2:n rakentamisen yhdessä Tampereen kanssa, Osallistumme valtateiden 9 ja 12 kehittämiseen)",
-    "text": "Kehitämme liikenneverkkoa (Käynnistämme raideliikennehankkeita, Aloitamme Kehä 2:n rakentamisen yhdessä Tampereen kanssa, Osallistumme valtateiden 9 ja 12 kehittämiseen)"
+    "text": "Kehitämme liikenneverkkoa (Käynnistämme raideliikennehankkeita, Aloitamme Kehä 2:n rakentamisen yhdessä Tampereen kanssa, Osallistumme valtateiden 9 ja 12 kehittämiseen)\nKeskeinen edunvalvontateema."
   },
   {
     "objectID": "elinvoima.html#kehitämme-seudullisessa-yhteistyössä-matkailupalveluja-ja-mahdollistamme-kasvun",
@@ -67,7 +67,7 @@
     "href": "elinvoima.html#edistämme-työllisyyttä-yritysten-oppilaitosten-ja-työnhakijoiden-yhteistyöllä",
     "title": "Elinvoiman edellytykset kunnossa",
     "section": "Edistämme työllisyyttä yritysten, oppilaitosten ja työnhakijoiden yhteistyöllä",
-    "text": "Edistämme työllisyyttä yritysten, oppilaitosten ja työnhakijoiden yhteistyöllä"
+    "text": "Edistämme työllisyyttä yritysten, oppilaitosten ja työnhakijoiden yhteistyöllä\nKangasalan kaupunki, Tredu, Business Kangasala, Kangasalan yrittäjät ja Pälkäneen kunta pitävät säännöllisesti tiedonvaihtopalavereita työllisyyden kehittymisestä ja yritysten, oppilaitosten sekä kaupungin kehittämismahdollisuuksista. (Kumppanuussopimus)"
   },
   {
     "objectID": "hiilineutraali.html#kasvamme-kestävästi-hiilineutraaliutta-edistäen",
@@ -235,7 +235,7 @@
     "href": "liikkuminen.html#kehitämme-houkuttelevia-retkeilyreittejä-ja-virkistysalueita",
     "title": "Liikkuva ja harrastava Kangasala",
     "section": "Kehitämme houkuttelevia retkeilyreittejä ja virkistysalueita",
-    "text": "Kehitämme houkuttelevia retkeilyreittejä ja virkistysalueita"
+    "text": "Kehitämme houkuttelevia retkeilyreittejä ja virkistysalueita\nKäy tutustumassa kaupunkiseudun -&gt; retkeilykarttaan &lt;-"
   },
   {
     "objectID": "liikkuminen.html#mahdollistamme-monipuolista-harrastustoimintaa",
@@ -539,25 +539,32 @@
     "text": "Maatilayritysten tulo, menot ja voitto (maatilayritysten verotilinpäätöksessä)\n\n\n\n\n\n\n\n\n\n\nKuntaliitto. 2014. Työpaikkaomavaraisuus kuntien tunnuslukuna. Kuntaliitto. https://www.stat.fi/artikkelit/2014/art_2014-05-26_003.html?s=0#1."
   },
   {
-    "objectID": "hyvinvointi.html#hyte-kerroin-0-100",
-    "href": "hyvinvointi.html#hyte-kerroin-0-100",
+    "objectID": "hyvinvointi.html#hyte-kerroin",
+    "href": "hyvinvointi.html#hyte-kerroin",
     "title": "Hyvinvointi",
-    "section": "HYTE-kerroin, 0-100",
-    "text": "HYTE-kerroin, 0-100\nIndikaattori ilmaisee HYTE-kertoimen asteikolla 0 - 100 eli keskiarvo tulosindikaattoreiden keskiarvosta ja prosessi-indikaattoreiden keskiarvosta. (THL 2023a)"
+    "section": "HYTE-kerroin",
+    "text": "HYTE-kerroin\nHYTE-kerroin, 0-100\nIndikaattori ilmaisee HYTE-kertoimen asteikolla 0 - 100 eli keskiarvo tulosindikaattoreiden keskiarvosta ja prosessi-indikaattoreiden keskiarvosta. (THL 2023a)"
   },
   {
-    "objectID": "hyvinvointi.html#tyytyväinen-elämäänsä-tällä-hetkellä-8.-ja-9.-luokan-oppilaista",
-    "href": "hyvinvointi.html#tyytyväinen-elämäänsä-tällä-hetkellä-8.-ja-9.-luokan-oppilaista",
+    "objectID": "hyvinvointi.html#syrjäytymisen-ehkäisy-ja-yksinäisyys",
+    "href": "hyvinvointi.html#syrjäytymisen-ehkäisy-ja-yksinäisyys",
     "title": "Hyvinvointi",
-    "section": "Tyytyväinen elämäänsä tällä hetkellä, % 8. ja 9. luokan oppilaista",
-    "text": "Tyytyväinen elämäänsä tällä hetkellä, % 8. ja 9. luokan oppilaista\nIndikaattori ilmaisee niiden peruskoulun 8. ja 9. luokkalaisten osuuden prosentteina kysymykseen vastanneista ko. ikäluokassa, jotka ovat erittäin tai melko tyytyväisiä elämäänsä tällä hetkellä. Elämään tyytyväisyyden mittaamisen yhdellä kysymyksellä on todettu väestötasolla yhtä luotettavaksi kuin useilla kysymyksillä mittaamisen. (THL 2023c)"
+    "section": "Syrjäytymisen ehkäisy ja yksinäisyys",
+    "text": "Syrjäytymisen ehkäisy ja yksinäisyys\nTuntee itsensä usein yksinäiseksi, % 4. ja 5. luokan oppilaista\n\n\n\n\n\n\nTuntee itsensä usein yksinäiseksi, % 8. ja 9. luokan oppilaista\n\n\n\n\n\n\nTuntee itsensä yksinäiseksi, % ammatillisen oppilaitoksen 1. ja 2. vuoden opiskelijoista\n\n\n\n\n\n\nTuntee itsensä yksinäiseksi, % lukion 1. ja 2. vuoden opiskelijoista\n\n\n\n\n\n\nEi yhtään läheistä ystävää, % 8. ja 9. luokan oppilaista\n\n\n\n\n\n\nEi yhtään läheistä ystävää, % lukion 1. ja 2. vuoden opiskelijoista"
   },
   {
-    "objectID": "hyvinvointi.html#kotona-asuvat-75---84-vuotiaat-vastaavan-ikäisestä-väestöstä",
-    "href": "hyvinvointi.html#kotona-asuvat-75---84-vuotiaat-vastaavan-ikäisestä-väestöstä",
+    "objectID": "hyvinvointi.html#tyytyväisyys-elämään---kouluterveyskysely",
+    "href": "hyvinvointi.html#tyytyväisyys-elämään---kouluterveyskysely",
     "title": "Hyvinvointi",
-    "section": "Kotona asuvat 75 - 84-vuotiaat, % vastaavan ikäisestä väestöstä",
-    "text": "Kotona asuvat 75 - 84-vuotiaat, % vastaavan ikäisestä väestöstä\nIndikaattori ilmaisee vuoden lopussa kotona asuvien 75-84 -vuotiaiden osuuden prosentteina vastaavanikäisestä väestöstä. Indikaattoria laskettaessa kotona asuviksi laskettiin muut kuin sairaaloissa ja terveyskeskuksissa pitkäaikaishoidossa, vanhainkodeissa, vanhusten tehostetussa palveluasumisessa, kehitysvammalaitoksissa tai kehitysvammaisten autetussa asumisessa olleet. Väestötietoina käytetään vuoden viimeisen päivän tietoa. (THL 2023b)\n\n\n\n\n\n\n\n\n\n\nTHL. 2023a. HYTE-kerroin. THL. https://sotkanet.fi/sotkanet/fi/metadata/indicators/5340.\n\n\n———. 2023b. Kotona asuvat 75 - 84-vuotiaat. THL. https://sotkanet.fi/sotkanet/fi/metadata/indicators/1250."
+    "section": "Tyytyväisyys elämään - kouluterveyskysely",
+    "text": "Tyytyväisyys elämään - kouluterveyskysely\nIndikaattori ilmaisee osuuden prosentteina kysymykseen vastanneista ko. ikäluokassa, jotka ovat erittäin tai melko tyytyväisiä elämäänsä tällä hetkellä. Elämään tyytyväisyyden mittaamisen yhdellä kysymyksellä on todettu väestötasolla yhtä luotettavaksi kuin useilla kysymyksillä mittaamisen. (THL 2023c)\nTyytyväinen elämäänsä tällä hetkellä, % 4. ja 5. luokan oppilaista\n\n\n\n\n\n\nTyytyväinen elämäänsä tällä hetkellä, % 8. ja 9. luokan oppilaista\n\n\n\n\n\n\nTyytyväinen elämäänsä tällä hetkellä, % ammatillisen oppilaitoksen 1. ja 2. vuoden opiskelijoista\n\n\n\n\n\n\nTyytyväinen elämäänsä tällä hetkellä, % lukion 1. ja 2. vuoden opiskelijoista"
+  },
+  {
+    "objectID": "hyvinvointi.html#ikäihmisten-hyvinvointi",
+    "href": "hyvinvointi.html#ikäihmisten-hyvinvointi",
+    "title": "Hyvinvointi",
+    "section": "Ikäihmisten hyvinvointi",
+    "text": "Ikäihmisten hyvinvointi\nKotona asuvat 75 - 84-vuotiaat, % vastaavan ikäisestä väestöstä\nIndikaattori ilmaisee vuoden lopussa kotona asuvien 75-84 -vuotiaiden osuuden prosentteina vastaavanikäisestä väestöstä. Indikaattoria laskettaessa kotona asuviksi laskettiin muut kuin sairaaloissa ja terveyskeskuksissa pitkäaikaishoidossa, vanhainkodeissa, vanhusten tehostetussa palveluasumisessa, kehitysvammalaitoksissa tai kehitysvammaisten autetussa asumisessa olleet. Väestötietoina käytetään vuoden viimeisen päivän tietoa. (THL 2023b)\n\n\n\n\n\n\n\n\n\n\nTHL. 2023a. HYTE-kerroin. THL. https://sotkanet.fi/sotkanet/fi/metadata/indicators/5340.\n\n\n———. 2023b. Kotona asuvat 75 - 84-vuotiaat. THL. https://sotkanet.fi/sotkanet/fi/metadata/indicators/1250.\n\n\n———. 2023c. Tyytyväinen elämäänsä tällä hetkellä,. THL. https://sotkanet.fi/sotkanet/fi/metadata/indicators/4811."
   },
   {
     "objectID": "sopeutuminen.html#kasvihuonekaasupäästöt-päästökaupan-ulkopuoliset-tiedot-2011-2020",
@@ -676,34 +683,6 @@
     "href": "lahteet.html",
     "title": "Lähteet",
     "section": "",
-    "text": "Kuntaliitto. 2014. Työpaikkaomavaraisuus Kuntien Tunnuslukuna.\nKuntaliitto. https://www.stat.fi/artikkelit/2014/art_2014-05-26_003.html?s=0#1.\n\n\nSyke. 2023. Hiilineutraalisuomi.fi. Syke. https://paastot.hiilineutraalisuomi.fi/#fi_kunta211.\n\n\nTHL. 2023a. HYTE-Kerroin. THL. https://sotkanet.fi/sotkanet/fi/metadata/indicators/5340.\n\n\n———. 2023b. Kotona Asuvat 75 - 84-Vuotiaat. THL. https://sotkanet.fi/sotkanet/fi/metadata/indicators/1250.\n\n\n———. 2023c. Tyytyväinen Elämäänsä Tällä Hetkellä,. THL. https://sotkanet.fi/sotkanet/fi/metadata/indicators/4700.\n\n\nTilastokeskus. 2023a. Kasvihuonekaasujen Päästöjen Ja Poistumien\nRaportoinnissa Alkaa Uusi Kausi. Tilastokeskus. https://stat.fi/muutostiedote/cl3bhkztacwpy0gvt9m6ysc83.\n\n\n———. 2023b. Kasvihuonekaasut. Tilastokeskus. https://stat.fi/tilasto/khki."
-  },
-  {
-    "objectID": "hyvinvointi.html#tyytyväisyys-elämään---kouluterveyskysely",
-    "href": "hyvinvointi.html#tyytyväisyys-elämään---kouluterveyskysely",
-    "title": "Hyvinvointi",
-    "section": "Tyytyväisyys elämään - kouluterveyskysely",
-    "text": "Tyytyväisyys elämään - kouluterveyskysely\nIndikaattori ilmaisee osuuden prosentteina kysymykseen vastanneista ko. ikäluokassa, jotka ovat erittäin tai melko tyytyväisiä elämäänsä tällä hetkellä. Elämään tyytyväisyyden mittaamisen yhdellä kysymyksellä on todettu väestötasolla yhtä luotettavaksi kuin useilla kysymyksillä mittaamisen. (THL 2023c)\nTyytyväinen elämäänsä tällä hetkellä, % 4. ja 5. luokan oppilaista\n\n\n\n\n\n\nTyytyväinen elämäänsä tällä hetkellä, % 8. ja 9. luokan oppilaista\n\n\n\n\n\n\nTyytyväinen elämäänsä tällä hetkellä, % ammatillisen oppilaitoksen 1. ja 2. vuoden opiskelijoista\n\n\n\n\n\n\nTyytyväinen elämäänsä tällä hetkellä, % lukion 1. ja 2. vuoden opiskelijoista"
-  },
-  {
-    "objectID": "hyvinvointi.html#hyte-kerroin",
-    "href": "hyvinvointi.html#hyte-kerroin",
-    "title": "Hyvinvointi",
-    "section": "HYTE-kerroin",
-    "text": "HYTE-kerroin\nHYTE-kerroin, 0-100\nIndikaattori ilmaisee HYTE-kertoimen asteikolla 0 - 100 eli keskiarvo tulosindikaattoreiden keskiarvosta ja prosessi-indikaattoreiden keskiarvosta. (THL 2023a)"
-  },
-  {
-    "objectID": "hyvinvointi.html#syrjäytymisen-ehkäisy-ja-yksinäisyys",
-    "href": "hyvinvointi.html#syrjäytymisen-ehkäisy-ja-yksinäisyys",
-    "title": "Hyvinvointi",
-    "section": "Syrjäytymisen ehkäisy ja yksinäisyys",
-    "text": "Syrjäytymisen ehkäisy ja yksinäisyys\nTuntee itsensä usein yksinäiseksi, % 4. ja 5. luokan oppilaista\n\n\n\n\n\n\nTuntee itsensä usein yksinäiseksi, % 8. ja 9. luokan oppilaista\n\n\n\n\n\n\nTuntee itsensä yksinäiseksi, % ammatillisen oppilaitoksen 1. ja 2. vuoden opiskelijoista\n\n\n\n\n\n\nTuntee itsensä yksinäiseksi, % lukion 1. ja 2. vuoden opiskelijoista\n\n\n\n\n\n\nEi yhtään läheistä ystävää, % 8. ja 9. luokan oppilaista\n\n\n\n\n\n\nEi yhtään läheistä ystävää, % ammatillisen oppilaitoksen 1. ja 2. vuoden opiskelijoista\n\n\n\n\n\n\nEi yhtään läheistä ystävää, % lukion 1. ja 2. vuoden opiskelijoista"
-  },
-  {
-    "objectID": "hyvinvointi.html#ikäihmisten-hyvinvointi",
-    "href": "hyvinvointi.html#ikäihmisten-hyvinvointi",
-    "title": "Hyvinvointi",
-    "section": "Ikäihmisten hyvinvointi",
-    "text": "Ikäihmisten hyvinvointi\nKotona asuvat 75 - 84-vuotiaat, % vastaavan ikäisestä väestöstä\nIndikaattori ilmaisee vuoden lopussa kotona asuvien 75-84 -vuotiaiden osuuden prosentteina vastaavanikäisestä väestöstä. Indikaattoria laskettaessa kotona asuviksi laskettiin muut kuin sairaaloissa ja terveyskeskuksissa pitkäaikaishoidossa, vanhainkodeissa, vanhusten tehostetussa palveluasumisessa, kehitysvammalaitoksissa tai kehitysvammaisten autetussa asumisessa olleet. Väestötietoina käytetään vuoden viimeisen päivän tietoa. (THL 2023b)\n\n\n\n\n\n\n\n\n\n\nTHL. 2023a. HYTE-kerroin. THL. https://sotkanet.fi/sotkanet/fi/metadata/indicators/5340.\n\n\n———. 2023b. Kotona asuvat 75 - 84-vuotiaat. THL. https://sotkanet.fi/sotkanet/fi/metadata/indicators/1250.\n\n\n———. 2023c. Tyytyväinen elämäänsä tällä hetkellä,. THL. https://sotkanet.fi/sotkanet/fi/metadata/indicators/4811."
+    "text": "Kuntaliitto. 2014. Työpaikkaomavaraisuus Kuntien Tunnuslukuna.\nKuntaliitto. https://www.stat.fi/artikkelit/2014/art_2014-05-26_003.html?s=0#1.\n\n\nSyke. 2023. Hiilineutraalisuomi.fi. Syke. https://paastot.hiilineutraalisuomi.fi/#fi_kunta211.\n\n\nTHL. 2023a. HYTE-Kerroin. THL. https://sotkanet.fi/sotkanet/fi/metadata/indicators/5340.\n\n\n———. 2023b. Kotona Asuvat 75 - 84-Vuotiaat. THL. https://sotkanet.fi/sotkanet/fi/metadata/indicators/1250.\n\n\n———. 2023c. Tyytyväinen Elämäänsä Tällä Hetkellä,. THL. https://sotkanet.fi/sotkanet/fi/metadata/indicators/4811.\n\n\nTilastokeskus. 2023a. Kasvihuonekaasujen Päästöjen Ja Poistumien\nRaportoinnissa Alkaa Uusi Kausi. Tilastokeskus. https://stat.fi/muutostiedote/cl3bhkztacwpy0gvt9m6ysc83.\n\n\n———. 2023b. Kasvihuonekaasut. Tilastokeskus. https://stat.fi/tilasto/khki."
   }
 ]
